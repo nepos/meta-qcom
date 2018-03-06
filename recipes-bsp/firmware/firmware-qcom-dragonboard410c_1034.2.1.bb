@@ -4,8 +4,8 @@ LICENSE = "Proprietary"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=4d087ee0965cb059f1b2f9429e166f64"
 
 SRC_URI = "http://builds.96boards.org/releases/dragonboard410c/qualcomm/firmware/linux-board-support-package-r${PV}.zip"
-SRC_URI[md5sum] = "e1c7e8957b8f37a91cadc18c1aef5c04"
-SRC_URI[sha256sum] = "a76405fae85399343bc421b6101ba765d92b3709f2d4ae8afe85dc300cf72c7e"
+SRC_URI[md5sum] = "25c241bfd5fb2e55e8185752d5fe92ce"
+SRC_URI[sha256sum] = "46953b974c5c58c7ca66db414437c0268b033ac9d28127e98d9c4e1a49359da5"
 
 DEPENDS += "mtools-native"
 
